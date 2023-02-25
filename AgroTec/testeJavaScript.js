@@ -25,4 +25,4 @@ function testeProb(valor1,valor2,valor3){
 //teste para usar push e pull
 testeProb(3,4.9,22)
 
-
+//Mudanças feitas para Teste de controle de Versão 1971 1985
