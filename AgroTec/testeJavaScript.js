@@ -22,7 +22,7 @@ function testeProb(valor1,valor2,valor3){
     let total = valor1 + valor2*(valor1+valor3)
     console.log(total)
 }
-
+//teste para usar push e pull
 testeProb(3,4.9,22)
 
 
