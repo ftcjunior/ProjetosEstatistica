@@ -29,8 +29,9 @@ testeProb(3,4.9,22)
 //funçao seta
 const frutas = (a,b,c)=>{ 
 
-let valor =  a*0.54/(b-c)
-console.log(valor)
+let valor =  a*13.54/(b-c)
+console.log(valor.toFixed(2))
 }
-frutas(2,3,9)
+frutas(12,87,35)
+
 
