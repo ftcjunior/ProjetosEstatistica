@@ -1,0 +1,28 @@
+
+article{
+    color: blue;
+    background-color: rgb(238, 235, 82);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    width: 300px;
+    padding: 0px 10px 10px 10px;
+    border: 2px solid rgb(41, 23, 145);
+    text-align: justify;
+
+}
+h5{
+    color: rgb(55, 4, 104);
+}
+#L1{
+    color: rgb(209, 25, 25);
+}
+.input1{
+    background-color: #f5f5f5;
+    border: 1px solid #d64e4e;
+    border-radius: 5px;
+    color: #333;
+    font-size: 16px;
+    padding: 10px;
+    box-shadow: none; /* Removendo a sombra */
+  }
+  
