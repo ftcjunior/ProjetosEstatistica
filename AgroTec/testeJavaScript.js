@@ -12,8 +12,17 @@ switch(junior){
     break;
 
     default:
-        console.log('valor pacrão do switch')
+        console.log('valor pacrão do switch JUNIOR TARGINO PROGRAMADOR FULL STACK')
     break;
 
 
 }
+//parâmetros para a função 
+function testeProb(valor1,valor2,valor3){
+    let total = valor1 + valor2*(valor1+valor3)
+    console.log(total)
+}
+
+testeProb(3,4.9,22)
+
+
