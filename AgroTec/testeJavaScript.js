@@ -27,7 +27,10 @@ testeProb(3,4.9,22)
 
 //Mudanças feitas para Teste de controle de Versão 1971 1985
 //funçao seta
-const frutas = (a,b,c)=>{ a*0.54*(b-c)}
+const frutas = (a,b,c)=>{ 
 
-
+let valor =  a*0.54/(b-c)
+console.log(valor)
+}
+frutas(2,3,9)
 
