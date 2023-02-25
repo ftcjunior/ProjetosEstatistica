@@ -26,3 +26,8 @@ function testeProb(valor1,valor2,valor3){
 testeProb(3,4.9,22)
 
 //Mudanças feitas para Teste de controle de Versão 1971 1985
+//funçao seta
+const frutas = (a,b,c)=>{ a*0.54*(b-c)}
+
+
+
