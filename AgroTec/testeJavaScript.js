@@ -25,6 +25,7 @@ function testeProb(valor1,valor2,valor3){
 //teste para usar push e pull
 testeProb(3,4.9,22)
 
+
 //Mudanças feitas para Teste de controle de Versão 1971 1985
 //funçao seta
 const num3 = 34.8
@@ -35,6 +36,4 @@ let valor =  a*13.54/(b-c)
 console.log(valor.toFixed(2))
 
 }
-
-
 let mudar =   Number(frutas(12,87,35))
