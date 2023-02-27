@@ -26,3 +26,20 @@ switch(carro.placa){
     default:
         console.log('padrão')
 }
+
+
+var pessoa = {
+    nome: "João",
+    idade: 25,
+    altura: 1.8,
+    peso: 73,
+    profissao: "programador",
+    falar: function() {
+      return `Meu nome é ${this.nome}`
+    },
+    calcularIMC: function() {
+      return this.peso/2.4*2.4;
+    }
+  };
+  console.log(pessoa.calcularIMC())
+  console.log(pessoa.falar())
