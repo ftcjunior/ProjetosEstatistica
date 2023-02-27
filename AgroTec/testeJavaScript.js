@@ -29,7 +29,7 @@ testeProb(3,4.9,22)
 //Mudanças feitas para Teste de controle de Versão 1971 1985
 //funçao seta
 
-const num3 = 34.8
+
 const frutas = (a,b,c)=>{ 
 const valor =  a*13.54/(b-c);
 console.log(valor.toFixed(2));
